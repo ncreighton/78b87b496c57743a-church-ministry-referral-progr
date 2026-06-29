@@ -1,0 +1,2 @@
+# 78b87b496c57743a-church-ministry-referral-progr
+The church ministry tool you'd build yourself — if you had the time.  Fully documented admin settings panel — no code required for configuration. Compatible with all major WordPress themes and page builders.  ## What's Included  - Church Ministry Referral Program And Tracking — fully configured and ready to use - Clean admin settings panel with inl
